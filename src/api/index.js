@@ -2,8 +2,6 @@ const API_URL = process.env.REACT_APP_API_URL;
 const API_KEY = process.env.REACT_APP_API_KEY;
 const API_HOST = process.env.REACT_APP_API_HOST;
 
-console.log(process.env)
-
 export const getRandomJoke = async () => {
     const res = await fetch(API_URL, {
         "method": "GET",
