@@ -1,3 +1,3 @@
 # Joke Mate
 
-#### [Live Preview]
+## ![Live Preview](https://joke-mate.vercel.app/)

@@ -1,11 +1,12 @@
 import React from "react";
-import NavBar from "./NavBar";
 
 function Header() {
   return (
     <header className="header">
       <span className="header__title">Joke Mate</span>
-      <NavBar />
+      <nav className="nav">
+        <span className="nav__item--active">Random Joke</span>
+      </nav>
     </header>
   );
 }
