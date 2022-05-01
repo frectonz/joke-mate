@@ -1,6 +1,6 @@
 # Joke Mate
 
-## ![Live Preview](https://joke-mate.vercel.app/)
+## [Live Preview](https://joke-mate.vercel.app/)
 
 ## Screenshot
 
